@@ -62,7 +62,7 @@ function Card(){
                                     <div className="card-img-overlay hide d-flex flex-column justify-content-center" >
                                         <h5 className="card-title text-center text-dark">{project.name}</h5>
                                         <p className="card-text text-center">{project.description}</p>
-                                        <a href={project.url} target="_blank" className="card-btn btn btn-dark">Ver Proyecto</a>
+                                        <a href={project.url} target="_blank" rel="noreferrer" className="card-btn btn btn-dark">Ver Proyecto</a>
                                     </div>
                                 </div>
                             </div>

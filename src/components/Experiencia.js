@@ -31,7 +31,7 @@ function Experiencia (){
                         <br />
                         <br />
                         Finalmente, comentar que tengo un nivel de Inglés B1 y actualmente estoy cursando el nivel B2 en Políglota, pues mi objetivo en el 2022 es llegar al nivel C. Mi experiencia en este idioma es extendido, pues he realizado informes completos en este idioma y también he participado en reuniones en inglés.
-                        Haciendo click <a href="https://s3.amazonaws.com/poliglota2/attachments/certificates/2205/previewed_images/original.certificate_4a4a1ec81d50fda320220228-12665-rhesxbjpeg?" target="_blank">aquí</a> podrás ver mi certificado B1 que he recibido por parte de Políglota
+                        Haciendo click <a href="https://s3.amazonaws.com/poliglota2/attachments/certificates/2205/previewed_images/original.certificate_4a4a1ec81d50fda320220228-12665-rhesxbjpeg?" target="_blank" rel="noreferrer">aquí</a> podrás ver mi certificado B1 que he recibido por parte de Políglota
                         
                     </p>
                 </div>
