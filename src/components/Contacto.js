@@ -23,13 +23,6 @@ function Contacto(){
 
 
     const formSubmitted=(event)=>{
-        event.preventDefault()
-        console.log("Probando portafolio")
-        console.log(enteredName)
-        console.log(enteredLastName)
-        console.log(enteredEmail)
-        console.log(enteredMessage)
-
         setEnteredName('')
         setEnteredLastName('')
         setEmail('')
@@ -43,7 +36,7 @@ return(
         <h2 className="title-section text-center mb-4" id="contacto">Escríbeme</h2>
         <p className="text-contacto mb-4 p-4">Si te ha interesado mi portafolio y deseas saber más de mi perfil, por favor comunícate conmigo completando el formulario. Por otra parte, si revisaste mi portafolio y visualizaste puntos de mejora, también te agradecería enormemente que me lo comunicaras.</p>
         
-        <form className="form p-4 needs-validation" name="contact" id="contacto" onSubmit={formSubmitted} netfily>
+        <form className="form p-4 needs-validation" name="contact" id="contacto" onSubmit={formSubmitted} method="POST" data-netlify="true" netfily>
             <div className="row">
                 <div className="mb-3 col-6">
                     <label className="form-label">Nombre</label>
