@@ -24,7 +24,7 @@ function Contacto(){
 
     const formSubmitted=(event)=>{
 
-        e.preventDefault();
+        event.preventDefault();
 
         setEnteredName('')
         setEnteredLastName('')
