@@ -1,5 +1,6 @@
 import rym from '../img/rym.jpeg'
 import gycem from '../img/gycem.png'
+import swa from '../img/swa.png'
 
 
 function Card(){
@@ -7,9 +8,9 @@ function Card(){
     const portafolio=[
         {
             name:"Star Wars App",
-            image:"https://picsum.photos/id/307/200",
-            description:"Aplicación de StarWars creada durante mi formación en 4Geeks Academy. Utilicé React para el front-end y consumí datos de una API abierta (SWAPI).",
-            url:"https://google.com"
+            image:swa,
+            description:"Aplicación de StarWars creada durante mi formación en 4Geeks Academy y mejorada en la medida que he ido aprendiendo más. Utilicé React con Flux y consumí datos de una API abierta (SWAPI).",
+            url:"https://starwarsfwd.netlify.app/"
         },
         {
             name:"Rick & Morty",
