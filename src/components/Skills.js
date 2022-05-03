@@ -47,12 +47,12 @@ function Skills (){
 
                     <div className="d-flex flex-column mb-4">
                         <span className="logo-experience mx-auto mb-2"><SiFlask /></span>
-                        <p className="text-center">Flask ha sido la libreria que más he utilizado para bases de datos, he estado profundizando mis conocimientos en esta librería haciendo cursos adicionales a la formación que tuve. También tengo nociones de usalo en conjunto con MySQL.</p>
+                        <p className="text-center">Flask ha sido la libreria que más he utilizado para bases de datos, he estado profundizando mis conocimientos en esta librería haciendo cursos adicionales a la formación que tuve. También tengo nociones para usarlo en conjunto con MySQL.</p>
                     </div>
 
                     <div className="d-flex flex-column mb-4">
                         <span className="logo-experience mx-auto mb-2"><AiOutlineConsoleSql /></span>
-                        <p className="text-center">Este lenguaje de consultas es el que he utilizado para el trabajo con bases de datos de aplicaciones de back-end. Cuento con las nociones básica para desarrollar una API CRUD.</p>
+                        <p className="text-center">Este lenguaje de consultas lo he utilizado para el trabajo con bases de datos en aplicaciones de back-end. Cuento con las nociones básica para desarrollar una API CRUD.</p>
                     </div>
 
                     <div className="d-flex flex-column mb-4">
