@@ -1,6 +1,7 @@
 import rym from '../img/rym.jpeg'
 import gycem from '../img/gycem.png'
 import swa from '../img/swa.png'
+import api  from '../img/api-tasks.jpg'
 
 
 function Card(){
@@ -24,12 +25,12 @@ function Card(){
             description:"Queria seguir practicando y desarrollé esta web para la empresa de un amigo. Utilicé React y la monté en un servidor.",
             url:"https://gycem.cl"
         },
-        // {
-        //     name:"Proyecto 4",
-        //     image:"https://picsum.photos/id/310/200",
-        //     description:"2022",
-        //     url:"https://google.com"
-        // },
+        {
+            name:"API Tasks",
+            image:api,
+            description:"La clásica API de tareas hecha con Python, Flask, Flask-SQLAlchemy y Flask-RESTFul. Puedes revisar el archivo README para ver cómo trabajar con ella. Actualmente estoy aprendiendo Heroku para poder desplegarla y posteriormente utilizarla con una app de Front-End",
+            url:"https://github.com/fernando-rp/api-tasks-python"
+        },
         // {
         //     name:"Proyecto 5",
         //     image:"https://picsum.photos/id/311/200",
